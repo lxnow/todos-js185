@@ -18,4 +18,4 @@ CREATE TABLE todos (
 CREATE TABLE users (
   username text PRIMARY KEY,
   password text NOT NULL
-)
+);
